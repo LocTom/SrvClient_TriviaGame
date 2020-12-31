@@ -1,5 +1,5 @@
 # SrvClient_TriviaGame
-The two python files included here are the server adn the client files.
+The two python files included here are the server and the client files.
 As can be seen the client has almsot no information or code in it and almost evreything is done in the backend to keep the game more secure.
 
 This project was done to show simple communication between server and client in an effective way and with sockets.
